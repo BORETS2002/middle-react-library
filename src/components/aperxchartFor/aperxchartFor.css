@@ -1,0 +1,106 @@
+.apexcharts-legend {
+  display: none !important;
+}
+.big-bos {
+  position: relative;
+  margin-top: 50px;
+}
+.current-value {
+  display: none;
+}
+.summa {
+  position: absolute;
+  top: 152px;
+  right: 155px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 38px;
+  /* identical to box height, or 119% */
+
+  text-align: center;
+
+  /* Neutral Colors/Black */
+
+  color: #1e1b39;
+}
+
+.starts {
+  position: absolute;
+  left: 24px;
+  top: 156px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+  /* identical to box height, or 183% */
+
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+
+  color: #000000;
+}
+
+.ends {
+  position: absolute;
+  right: 59px;
+  top: 156px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 22px;
+
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+
+  color: #000000;
+}
+
+.segment-value {
+  display: none !important;
+}
+.spans-box {
+  width: 140px;
+  text-align: center;
+  display: block;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  right: 132px;
+  top: -45px;
+}
+.mini-text {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 16px;
+
+  text-align: center;
+
+  /* Neutral Colors/Text Gray */
+
+  color: #615e83;
+}
+.mini-sum {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  text-transform: uppercase;
+
+  color: #000000;
+}
+.mini-strelka {
+}
+
+.speedometer {
+  height: 255px !important;
+  margin-left: 20px;
+}

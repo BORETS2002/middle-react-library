@@ -1,0 +1,42 @@
+.porjects {
+  max-width: 420px;
+  padding: 30px 25px;
+  background: #ffffff;
+  border-radius: 8px;
+}
+
+.big-text {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 30px;
+  text-transform: uppercase;
+  color: #1b1953;
+}
+.apexcharts-canvas {
+  width: 166px !important;
+  height: 10px !important;
+  min-height: 10px !important;
+}
+.apexcharts-series {
+  fill: #000 !important;
+}
+.apexcharts-menu-icon {
+  display: none !important;
+}
+.one-progress {
+  font-family: "Inter";
+  margin-bottom: 10px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 34px;
+  line-height: 41px;
+  text-align: left;
+
+  color: #1b1953;
+}
+.color-bar {
+  background: #3cda73;
+  border-radius: 3px;
+}
